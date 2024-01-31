@@ -1,0 +1,23 @@
+.Counter{   
+    padding:2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Counter h1{
+    padding: 0.5rem;
+    font-size: 10rem;
+    font-weight: 600;
+    margin:0px auto;
+    margin-bottom: 4rem;
+    color:#9DB2BF;
+}
+.Counter button{
+    padding:1rem 2rem;
+    font-size: 1.9rem;
+    border-radius: 0.5rem;
+    margin: 0 0.5rem;
+    background-color: #526D82;
+    color: #DDE6ED;
+    font-weight: 600;
+}
